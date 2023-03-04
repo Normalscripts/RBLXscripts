@@ -1,0 +1,7 @@
+#This script is a basic way of a cmd activating when a ClickDetector is activated.
+#MAKE SURE THE SCRIPT IS INSIDE THE CLICKDECTECTOR OR IT WONT WORK
+
+
+script.parent.MouseButton1click:connect(function()
+  #ENTER YOUR SCRIPTS HERE
+end)
